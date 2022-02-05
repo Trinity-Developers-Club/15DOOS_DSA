@@ -87,6 +87,7 @@ For your PR to count it must be:
 ## Trinity Cyber Forum
 
 <p>
+    <h3>TCF{SEARCHING_FOR_FLAG_HERE_IT_IS}</h3>
 <a href="https://github.com/ipectrinity">
   <img align="left" alt="" width="3%" style="margin:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>  
