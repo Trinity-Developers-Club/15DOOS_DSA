@@ -49,7 +49,7 @@ For your PR to count it must be:
 
 - Repo contain folders of mostly used languages if not You may create.
 -  You have to **add a folder** of your name in languge folder you are going to code.
--  You have to **add solution files** in your folder with GOOGLE_HISTORY_FINDER proper defined question in `Comments` in starting of file and in readme.md of that folder.
+-  You have to **add solution files** in your folder with proper defined question in `Comments` in starting of file and in readme.md of that folder.
 - you can **update existing solution** with a better one ( better complexity).
 - Participants can even **add new Language** and solutions of their interest.
 - **solve issues** raised by other people or yourself.
@@ -87,7 +87,6 @@ For your PR to count it must be:
 ## Trinity Cyber Forum
 
 <p>
-    <h3>SEARCHING_FOR_FLAG_HERE_IT_IS</h3>
 <a href="https://github.com/ipectrinity">
   <img align="left" alt="" width="3%" style="margin:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>  
